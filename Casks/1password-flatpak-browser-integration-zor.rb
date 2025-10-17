@@ -344,7 +344,7 @@ cask "1password-flatpak-browser-integration-zor" do
   desc "Integration for 1Password with Flatpak browsers"
   homepage "https://github.com/FlyinPancake/1password-flatpak-browser-integration"
 
-  depends_on cask: "1password-gui-linux"
+  depends_on cask: "1password-gui-linux-zor"
 
   preflight do
     # Display security warning
