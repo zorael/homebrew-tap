@@ -15,7 +15,7 @@ module Utils
   end
 end
 
-cask "1password-gui-linux" do
+cask "1password-gui-linux-zor" do
   arch intel: "x86_64", arm: "aarch64"
   os linux: "linux"
 

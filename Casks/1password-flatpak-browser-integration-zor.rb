@@ -331,7 +331,7 @@ module Utils
   end
 end
 
-cask "1password-flatpak-browser-integration" do
+cask "1password-flatpak-browser-integration-zor" do
   arch intel: "x86_64", arm: "aarch64"
   os linux: "linux"
 
